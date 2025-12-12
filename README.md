@@ -11,3 +11,5 @@ Used for:
 PEKORA.ZIP
 
 --------------------------------------------------------------------------------------------------------
+Games List:
+(Require Rat Hax)[https://www.pekora.zip/games/364088/Require-Rat-Hax]

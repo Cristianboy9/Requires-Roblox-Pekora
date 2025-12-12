@@ -14,3 +14,6 @@ PEKORA.ZIP
 Games List:
 - [Require Rat Hax](https://www.pekora.zip/games/364088/Require-Rat-Hax)
 - [Require Runner](https://www.pekora.zip/games/357985/Require-Runner)
+
+@u10
+@Zyk

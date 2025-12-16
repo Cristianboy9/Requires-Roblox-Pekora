@@ -1,7 +1,7 @@
 # TOTAL REQUIRES AMOUNT: 39
 
 -------------------------------------------------------------------------------------------------------
-THESE .TXT FILES YOU SEE ARE REQUIRE SCRIPTS FOR THE GAMES THAT USE A EXECUTOR TO EXECUTE SOME SCRIPTS!
+THESE .TXT FILES YOU SEE ARE REQUIRE SCRIPTS FOR THE GAMES THAT USE A EXECUTOR TO EXECUTE REQUIRE SCRIPTS!
 
 Require Scripts 
 Used for:
@@ -17,5 +17,6 @@ Games List:
 - [Require Rat Hax](https://www.pekora.zip/games/364088/Require-Rat-Hax)
 - [Require Runner](https://www.pekora.zip/games/357985/Require-Runner)
 
-@u10
-@Zyk
+
+"@u10"
+"@Zyk"

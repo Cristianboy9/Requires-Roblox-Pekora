@@ -18,5 +18,7 @@ Games List:
 - [Require Runner](https://www.pekora.zip/games/357985/Require-Runner)
 
 
-"@u10"
+"@Arcade"
+
+
 "@Zyk"

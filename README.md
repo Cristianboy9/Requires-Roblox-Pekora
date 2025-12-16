@@ -1,7 +1,7 @@
-# TOTAL REQUIRES AMOUNT: 39
+# TOTAL REQUIRES AMOUNT: 40
 
 -------------------------------------------------------------------------------------------------------
-THESE .TXT FILES YOU SEE ARE REQUIRE SCRIPTS FOR THE GAMES THAT USE A EXECUTOR TO EXECUTE REQUIRE SCRIPTS!
+#THESE .TXT FILES YOU SEE ARE REQUIRE SCRIPTS FOR THE GAMES THAT USE A EXECUTOR TO EXECUTE REQUIRE SCRIPTS!
 
 Require Scripts 
 Used for:
@@ -18,7 +18,7 @@ Games List:
 - [Require Runner](https://www.pekora.zip/games/357985/Require-Runner)
 
 
-"@Arcade"
+# "@Arcade"
 
 
-"@Zyk"
+# "@Zyk"

@@ -9,7 +9,7 @@ Used for:
 	UI Stuff
 	Open-source frameworks
 
-# PEKORA.ZIP
+# ON KORONE
 
 Korone Games List:
 - [Require Rat Hax](https://www.pekora.zip/games/364088/Require-Rat-Hax) - By [Arcade](https://www.pekora.zip/users/48417/profile)

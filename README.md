@@ -2,13 +2,6 @@
 
 THESE .TXT AND .LUA FILES YOU SEE ARE REQUIRE SCRIPTS FOR THE GAMES THAT USE A EXECUTOR TO EXECUTE REQUIRE SCRIPTS!
 
-# PEKORA.ZIP
-Require Scripts 
-Used for:
-	Admin systems
-	UI Stuff
-	Open-source frameworks
-
 # ON KORONE
 
 Korone Games List:
@@ -21,3 +14,5 @@ Made by
 # "@Arcade"
 
 # "@Zyk"
+
+-# TESTED ON PEKORA.ZIP

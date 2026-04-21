@@ -12,5 +12,5 @@ By [casm0](https://www.pekora.zip/users/42/profile)
 ➤ [Require Script Baseplate](https://www.pekora.zip/games/359189/Require-Script-Baseplate)
 By [9_9](https://www.pekora.zip/users/12411/profile)
 
-**Hashtags:**
+## useless:
 roblox roblox-hack roblox-executor lua-scripts require-hub script-hub exploit require-bypass korone-scripts pekora-zip game-exploits roblox-tools

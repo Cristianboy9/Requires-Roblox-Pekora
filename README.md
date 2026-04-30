@@ -13,4 +13,4 @@ By [casm0](https://www.pekora.zip/users/42/profile)
 By [9_9](https://www.pekora.zip/users/12411/profile)
 
 ## useless:
-roblox roblox-hack roblox-executor lua-scripts require-hub script-hub exploit require-bypass korone-scripts pekora-zip game-exploits roblox-tools
+pekora, roblox, serversided, scripts, require, require scripts, zyk

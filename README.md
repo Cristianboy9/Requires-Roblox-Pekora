@@ -3,6 +3,10 @@
 ## THESE SCRIPTS ONLY WORK ON KORONE / ROBLOX
 
 ## Korone Games List:
+
+➤ [Require Runner](https://www.pekora.zip/games/357985/Require-Runner)
+By [Zyk](https://www.pekora.zip/users/49106/profile)
+
 ➤ [Require Rat Hax](https://www.pekora.zip/games/364088/Require-Rat-Hax)
 By [Arcade](https://www.pekora.zip/users/48417/profile)
 

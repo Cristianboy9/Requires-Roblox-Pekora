@@ -17,4 +17,4 @@ By [casm0](https://www.pekora.zip/users/42/profile)
 By [9_9](https://www.pekora.zip/users/12411/profile)
 
 ## useless:
-pekora, roblox, serversided, scripts, require, require scripts, zyk
+pekora, korone, roblox, serversided, scripts, require, require scripts, zyk

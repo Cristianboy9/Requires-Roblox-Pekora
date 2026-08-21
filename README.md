@@ -1,6 +1,6 @@
 # TOTAL SCRIPTS AMOUNT: 95+
 
-## THESE SCRIPTS ONLY WORK ON KORONE / ROBLOX
+## THESE SCRIPTS ARE NOT MINE AND THEY ONLY WORK ON KORONE / ROBLOX + OTHER REVIVALS
 
 ## Korone Games List:
 
@@ -14,6 +14,3 @@ By [casm0](https://www.pekora.zip/users/42/profile)
 By [9_9](https://www.pekora.zip/users/12411/profile)
 
 If anybody isn't in the game list, please dm me on discord @not.zyk
-
-## useless:
-pekora, korone, roblox, serversided, scripts, require, require scripts, zyk
